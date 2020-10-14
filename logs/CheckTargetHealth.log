@@ -1,0 +1,108 @@
+2020/09/16 15:27:30:277 DEBUG ====================================================Started================================================
+2020/09/16 15:27:30:328 DEBUG geting domainID parameter for centrify.lab.tr domain
+2020/09/16 15:27:30:479 DEBUG centrify.lab.tr, domainID: 3ba04b4b-6ede-4b05-a454-c87ac585cb46
+2020/09/16 15:27:30:507 DEBUG geting all servers parameters for centrify.lab.tr
+2020/09/16 15:27:30:844 DEBUG Total number server for centrify.lab.tr : 1
+2020/09/16 15:27:33:526 DEBUG Checked for @{success=True; Result=System.Object[]; Message=; MessageID=; Exception=; ErrorID=; ErrorCode=; IsSoftError=False; InnerExceptions=}.Result.AceId
+2020/09/16 15:56:14:982 DEBUG ====================================================Started================================================
+2020/09/16 15:56:15:022 DEBUG geting domainID parameter for centrify.lab.tr domain
+2020/09/16 15:56:15:179 DEBUG centrify.lab.tr, domainID: 3ba04b4b-6ede-4b05-a454-c87ac585cb46
+2020/09/16 15:56:15:198 DEBUG geting all servers parameters for centrify.lab.tr
+2020/09/16 15:56:15:357 DEBUG Total number server for centrify.lab.tr : 1
+2020/09/16 16:02:39:392 DEBUG ====================================================Started================================================
+2020/09/16 16:02:39:441 DEBUG geting domainID parameter for centrify.lab.tr domain
+2020/09/16 16:02:39:634 DEBUG centrify.lab.tr, domainID: 3ba04b4b-6ede-4b05-a454-c87ac585cb46
+2020/09/16 16:02:39:667 DEBUG geting all servers parameters for centrify.lab.tr
+2020/09/16 16:02:39:866 DEBUG Total number server for centrify.lab.tr : 1
+2020/09/16 16:02:45:583 DEBUG Checked for @{success=True; Result=System.Object[]; Message=; MessageID=; Exception=; ErrorID=; ErrorCode=; IsSoftError=False; InnerExceptions=}.Result.AceId
+2020/09/16 16:05:57:974 DEBUG ====================================================Started================================================
+2020/09/16 16:05:58:002 DEBUG geting domainID parameter for centrify.lab.tr domain
+2020/09/16 16:05:58:171 DEBUG centrify.lab.tr, domainID: 3ba04b4b-6ede-4b05-a454-c87ac585cb46
+2020/09/16 16:05:58:198 DEBUG geting all servers parameters for centrify.lab.tr
+2020/09/16 16:05:58:319 DEBUG Total number server for centrify.lab.tr : 1
+2020/09/16 16:06:03:281 DEBUG Checked for @{success=True; Result=System.Object[]; Message=; MessageID=; Exception=; ErrorID=; ErrorCode=; IsSoftError=False; InnerExceptions=}.Result.AceId
+2020/09/16 16:07:12:767 DEBUG ====================================================Started================================================
+2020/09/16 16:07:12:792 DEBUG geting domainID parameter for centrify.lab.tr domain
+2020/09/16 16:07:12:987 DEBUG centrify.lab.tr, domainID: 3ba04b4b-6ede-4b05-a454-c87ac585cb46
+2020/09/16 16:07:13:047 DEBUG geting all servers parameters for centrify.lab.tr
+2020/09/16 16:07:13:175 DEBUG Total number server for centrify.lab.tr : 1
+2020/09/16 16:07:16:698 DEBUG Checked for @{success=True; Result=System.Object[]; Message=; MessageID=; Exception=; ErrorID=; ErrorCode=; IsSoftError=False; InnerExceptions=}.Result.AceId
+2020/09/16 16:12:23:996 DEBUG ====================================================Started================================================
+2020/09/16 16:12:24:046 DEBUG geting domainID parameter for centrify.lab.tr domain
+2020/09/16 16:12:24:193 DEBUG centrify.lab.tr, domainID: 3ba04b4b-6ede-4b05-a454-c87ac585cb46
+2020/09/16 16:12:24:247 DEBUG geting all servers parameters for centrify.lab.tr
+2020/09/16 16:12:24:360 DEBUG Total number server for centrify.lab.tr : 1
+2020/09/16 16:12:27:421 DEBUG Checked for @{success=True; Result=System.Object[]; Message=; MessageID=; Exception=; ErrorID=; ErrorCode=; IsSoftError=False; InnerExceptions=}.Result.AceId
+2020/09/16 16:13:56:842 DEBUG ====================================================Started================================================
+2020/09/16 16:13:56:913 DEBUG geting domainID parameter for centrify.lab.tr domain
+2020/09/16 16:13:57:073 DEBUG centrify.lab.tr, domainID: 3ba04b4b-6ede-4b05-a454-c87ac585cb46
+2020/09/16 16:13:57:096 DEBUG geting all servers parameters for centrify.lab.tr
+2020/09/16 16:13:57:215 DEBUG Total number server for centrify.lab.tr : 1
+2020/09/16 16:14:02:358 DEBUG Checked for @{success=True; Result=System.Object[]; Message=; MessageID=; Exception=; ErrorID=; ErrorCode=; IsSoftError=False; InnerExceptions=}.Result.AceId
+2020/09/16 17:14:41:517 DEBUG ====================================================Started================================================
+2020/09/16 17:14:41:541 DEBUG geting domainID parameter for centrify.lab.tr domain
+2020/09/16 17:14:41:685 DEBUG centrify.lab.tr, domainID: 3ba04b4b-6ede-4b05-a454-c87ac585cb46
+2020/09/16 17:14:41:716 DEBUG geting all servers parameters for centrify.lab.tr
+2020/09/16 17:14:42:151 DEBUG Total number server for centrify.lab.tr : 1
+2020/09/16 17:14:48:689 DEBUG Checked for @{success=True; Result=System.Object[]; Message=; MessageID=; Exception=; ErrorID=; ErrorCode=; IsSoftError=False; InnerExceptions=}.Result.AceId
+2020/09/16 17:18:18:265 DEBUG ====================================================Started================================================
+2020/09/16 17:18:18:315 DEBUG geting domainID parameter for centrify.lab.tr domain
+2020/09/16 17:18:18:490 DEBUG centrify.lab.tr, domainID: 3ba04b4b-6ede-4b05-a454-c87ac585cb46
+2020/09/16 17:18:18:521 DEBUG geting all servers parameters for centrify.lab.tr
+2020/09/16 17:18:18:668 DEBUG Total number server for centrify.lab.tr : 1
+2020/09/16 17:18:22:212 DEBUG Checked for @{success=True; Result=System.Object[]; Message=; MessageID=; Exception=; ErrorID=; ErrorCode=; IsSoftError=False; InnerExceptions=}.Result.AceId
+2020/09/16 17:18:32:693 DEBUG ====================================================Started================================================
+2020/09/16 17:18:32:727 DEBUG geting domainID parameter for centrify.lab.tr domain
+2020/09/16 17:18:32:853 DEBUG centrify.lab.tr, domainID: 3ba04b4b-6ede-4b05-a454-c87ac585cb46
+2020/09/16 17:18:32:889 DEBUG geting all servers parameters for centrify.lab.tr
+2020/09/16 17:18:33:009 DEBUG Total number server for centrify.lab.tr : 1
+2020/09/16 17:18:34:539 DEBUG Checked for @{success=True; Result=System.Object[]; Message=; MessageID=; Exception=; ErrorID=; ErrorCode=; IsSoftError=False; InnerExceptions=}.Result.AceId
+2020/09/16 17:30:48:206 DEBUG ====================================================Started================================================
+2020/09/16 17:30:48:253 DEBUG geting domainID parameter for centrify.lab.tr domain
+2020/09/16 17:30:48:412 DEBUG centrify.lab.tr, domainID: 3ba04b4b-6ede-4b05-a454-c87ac585cb46
+2020/09/16 17:30:48:477 DEBUG geting all servers parameters for centrify.lab.tr
+2020/09/16 17:30:48:943 DEBUG Total number server for centrify.lab.tr : 1
+2020/09/16 17:30:52:441 DEBUG Checked for @{success=True; Result=System.Object[]; Message=; MessageID=; Exception=; ErrorID=; ErrorCode=; IsSoftError=False; InnerExceptions=}.Result.AceId
+2020/09/16 17:32:20:831 DEBUG ====================================================Started================================================
+2020/09/16 17:32:20:880 DEBUG geting domainID parameter for centrify.lab.tr domain
+2020/09/16 17:32:21:020 DEBUG centrify.lab.tr, domainID: 3ba04b4b-6ede-4b05-a454-c87ac585cb46
+2020/09/16 17:32:21:041 DEBUG geting all servers parameters for centrify.lab.tr
+2020/09/16 17:32:21:149 DEBUG Total number server for centrify.lab.tr : 1
+2020/09/16 17:32:26:171 DEBUG Checked for @{success=True; Result=System.Object[]; Message=; MessageID=; Exception=; ErrorID=; ErrorCode=; IsSoftError=False; InnerExceptions=}.Result.AceId
+2020/09/16 17:35:14:892 DEBUG ====================================================Started================================================
+2020/09/16 17:35:14:966 DEBUG geting domainID parameter for centrify.lab.tr domain
+2020/09/16 17:35:15:122 DEBUG centrify.lab.tr, domainID: 3ba04b4b-6ede-4b05-a454-c87ac585cb46
+2020/09/16 17:35:15:154 DEBUG geting all servers parameters for centrify.lab.tr
+2020/09/16 17:35:15:283 DEBUG Total number server for centrify.lab.tr : 1
+2020/09/16 17:35:18:018 DEBUG Checked for @{success=True; Result=System.Object[]; Message=; MessageID=; Exception=; ErrorID=; ErrorCode=; IsSoftError=False; InnerExceptions=}.Result.AceId
+2020/09/16 17:44:23:245 DEBUG ====================================================Started================================================
+2020/09/16 17:44:23:277 DEBUG geting domainID parameter for centrify.lab.tr domain
+2020/09/16 17:44:23:417 DEBUG centrify.lab.tr, domainID: 3ba04b4b-6ede-4b05-a454-c87ac585cb46
+2020/09/16 17:44:23:453 DEBUG geting all servers parameters for centrify.lab.tr
+2020/09/16 17:44:23:556 DEBUG Total number server for centrify.lab.tr : 1
+2020/09/16 17:44:26:924 DEBUG Checked for @{success=True; Result=System.Object[]; Message=; MessageID=; Exception=; ErrorID=; ErrorCode=; IsSoftError=False; InnerExceptions=}.Result.AceId
+2020/09/16 17:45:21:623 DEBUG ====================================================Started================================================
+2020/09/16 17:45:21:661 DEBUG geting domainID parameter for centrify.lab.tr domain
+2020/09/16 17:45:21:799 DEBUG centrify.lab.tr, domainID: 3ba04b4b-6ede-4b05-a454-c87ac585cb46
+2020/09/16 17:45:21:827 DEBUG geting all servers parameters for centrify.lab.tr
+2020/09/16 17:45:21:963 DEBUG Total number server for centrify.lab.tr : 1
+2020/09/16 17:45:23:653 DEBUG Checked for @{success=True; Result=System.Object[]; Message=; MessageID=; Exception=; ErrorID=; ErrorCode=; IsSoftError=False; InnerExceptions=}.Result.AceId
+2020/09/16 17:47:24:149 DEBUG ====================================================Started================================================
+2020/09/16 17:47:24:188 DEBUG geting domainID parameter for centrify.lab.tr domain
+2020/09/16 17:47:24:296 DEBUG centrify.lab.tr, domainID: 3ba04b4b-6ede-4b05-a454-c87ac585cb46
+2020/09/16 17:47:24:347 DEBUG geting all servers parameters for centrify.lab.tr
+2020/09/16 17:47:24:463 DEBUG Total number server for centrify.lab.tr : 1
+2020/09/16 17:47:29:331 DEBUG Checked for @{success=True; Result=System.Object[]; Message=; MessageID=; Exception=; ErrorID=; ErrorCode=; IsSoftError=False; InnerExceptions=}.Result.AceId
+2020/09/16 17:47:33:491 DEBUG ====================================================Started================================================
+2020/09/16 17:47:33:536 DEBUG geting domainID parameter for centrify.lab.tr domain
+2020/09/16 17:47:33:693 DEBUG centrify.lab.tr, domainID: 3ba04b4b-6ede-4b05-a454-c87ac585cb46
+2020/09/16 17:47:33:737 DEBUG geting all servers parameters for centrify.lab.tr
+2020/09/16 17:47:33:848 DEBUG Total number server for centrify.lab.tr : 1
+2020/09/16 17:47:36:406 DEBUG Checked for @{success=True; Result=System.Object[]; Message=; MessageID=; Exception=; ErrorID=; ErrorCode=; IsSoftError=False; InnerExceptions=}.Result.AceId
+2020/09/17 13:32:06:546 DEBUG ====================================================Started================================================
+2020/09/17 13:32:06:609 DEBUG geting domainID parameter for centrify.lab.tr domain
+2020/09/17 13:32:06:709 DEBUG centrify.lab.tr, domainID: 3ba04b4b-6ede-4b05-a454-c87ac585cb46
+2020/09/17 13:32:06:714 DEBUG geting all servers parameters for centrify.lab.tr
+2020/09/17 13:32:06:810 DEBUG Total number server for centrify.lab.tr : 1
+2020/09/17 13:32:06:925 DEBUG Checked for @{success=True; Result=System.Object[]; Message=; MessageID=; Exception=; ErrorID=; ErrorCode=; IsSoftError=False; InnerExceptions=}.Result.AceId
+2020/09/17 14:14:04:026 DEBUG ====================================================Started================================================
