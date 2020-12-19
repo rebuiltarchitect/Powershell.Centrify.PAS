@@ -29,17 +29,15 @@ $enableVerbose = ($PSBoundParameters['Verbose'] -eq $true)
 
 try{
     #Authorization using OAuth2 Cleint Credentials Flow. If interactive or MFA is desired, use OnDemandChallenge APIs https://developer.centrify.com/reference#post_security-ondemandchallenge
-    #$token = Centrify-OAuth-ClientCredentials -Endpoint $endpoint -Appid "Automation" -Clientid "pasadmin@centrify.local" -Clientsecret "24Qwert12" -Scope "Account" -Verbose:$enableVerbose    
     $token = Centrify-OAuth-ClientCredentials -Endpoint $endpoint -Appid "automation" -Clientid "automationuser@centrify.local" -Clientsecret "24Qwert12" -Scope "all" -Verbose:$enableVerbose    
-    # $token = Centrify-OAuth-ClientCredentials -Endpoint $endpoint -Appid "Automation" -Clientid "pasadmin@centrify.local" -Clientsecret "24Qwert12" -Scope "Account" -Verbose:$enableVerbose    
-
+    
     # Get information about the user who owns this token via /security/whoami     
     $userInfo = Centrify-InvokeREST -Endpoint $token.Endpoint -Method "/security/whoami" -Token $token.BearerToken -Verbose:$enableVerbose     
     Write-Host "Current user: " $userInfo.Result.User
 
     # Add User to a CPS Resource
-    # UpdatePasswordWithCvsFile -Endpoint $token.Endpoint -BearerToken $token.BearerToken -csvFile "C:\Util\denizbank\data\user.csv" -Verbose    
-    # Set-PermissionWithCvsFile  -Endpoint $token.Endpoint -BearerToken $token.BearerToken -csvFile "C:\Util\denizbank\data\SetPermission.csv" -Verbose 
+    # UpdatePasswordWithCvsFile -Endpoint $token.Endpoint -BearerToken $token.BearerToken -csvFile "C:\Github\Powershell.Centrify.PAS\data\user.csv" -Verbose    
+    # Set-PermissionWithCvsFile  -Endpoint $token.Endpoint -BearerToken $token.BearerToken -csvFile "C:\Github\Powershell.Centrify.PAS\data\SetPermission.csv" -Verbose 
     # UpdateResource -Endpoint $token.Endpoint -BearerToken $token.BearerToken -Verbose
     # AddAccount -endpoint $endpoint -bearerToken $token.bearerToken -username "lcwuser2d" -password "24Qwert12" -Description "aa" -IsManaged "false" -DatabaseName "da01w19" -operation "Database" -Verbose
     # AddAccount -endpoint $endpoint -bearerToken $token.bearerToken -username "lcwuser2" -password "24Qwert12" -Description "aa" -IsManaged "true" -HostName "pa01w19.centrify.lab.tr" -operation "System" -Verbose
