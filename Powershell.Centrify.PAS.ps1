@@ -38,8 +38,8 @@ try{
     Write-Host "Current user: " $userInfo.Result.User
 
     # Add User to a CPS Resource
-    # UpdatePasswordWithCvsFile -Endpoint $token.Endpoint -BearerToken $token.BearerToken -csvFile "C:\Util\denizbank\data\user.csv" -Verbose    
-    # Set-PermissionWithCvsFile  -Endpoint $token.Endpoint -BearerToken $token.BearerToken -csvFile "C:\Util\denizbank\data\SetPermission.csv" -Verbose 
+    # UpdatePasswordWithCvsFile -Endpoint $token.Endpoint -BearerToken $token.BearerToken -csvFile "C:\Util\Powershell.Centrify.PAS\data\user.csv" -Verbose    
+    # Set-PermissionWithCvsFile  -Endpoint $token.Endpoint -BearerToken $token.BearerToken -csvFile "C:\Util\Powershell.Centrify.PAS\data\SetPermission.csv" -Verbose 
     # UpdateResource -Endpoint $token.Endpoint -BearerToken $token.BearerToken -Verbose
     # AddAccount -endpoint $endpoint -bearerToken $token.bearerToken -username "lcwuser2d" -password "24Qwert12" -Description "aa" -IsManaged "false" -DatabaseName "da01w19" -operation "Database" -Verbose
     # AddAccount -endpoint $endpoint -bearerToken $token.bearerToken -username "lcwuser2" -password "24Qwert12" -Description "aa" -IsManaged "true" -HostName "pa01w19.centrify.lab.tr" -operation "System" -Verbose
